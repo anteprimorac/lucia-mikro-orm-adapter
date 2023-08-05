@@ -1,0 +1,11 @@
+# system files
+.DS_Store
+
+# node
+node_modules
+
+# typescript
+*.tsbuildinfo
+
+# dist
+/dist

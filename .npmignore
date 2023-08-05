@@ -1,0 +1,9 @@
+# system files
+.DS_Store
+
+# source
+/src
+
+# typescript
+*.tsbuildinfo
+tsconfig.json
