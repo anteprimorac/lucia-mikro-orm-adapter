@@ -1,7 +1,7 @@
 {
   "name": "lucia-mikro-orm-adapter",
   "version": "0.0.0",
-  "description": "Mikro ORM adapter for Lucia auth",
+  "description": "Mikro ORM adapter for Lucia auth library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.js",
