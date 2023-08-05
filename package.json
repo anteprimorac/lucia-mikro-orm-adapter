@@ -24,7 +24,7 @@
     "adapter",
     "lucia-auth-adapter"
   ],
-  "author": "Ante Primorac",
+  "author": "anteprimorac",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/anteprimorac/lucia-mikro-orm-adapter/issues"
